@@ -1,0 +1,39 @@
+header {
+	background:url("background_image.jpg");
+	background-size: cover;
+	opacity:0.8;
+	color:white;
+	font-family: 'Eccentric Std';
+	text-align:center;
+	letter-spacing:2px;
+	}
+table {
+	margin-left:auto;
+	margin-right:auto;
+	padding: 0px 0px 50px 0px;
+	font-size: 30px;
+}
+h1 {
+	padding: 40px 0px 0px 0px;
+	font-size:70px;
+}
+th {
+	padding:0px 20px 0px 20px;
+}
+h3 {
+	font-family: 'Eccentric Std';
+	letter-spacing:2px;
+	text-align:center;
+	font-size:30px;
+}
+body {
+	font-family:'Bell Mt';
+	margin: 40px;
+	background: url("body_background.jpg");
+	background-size:cover;
+}
+
+p {
+	margin: 20px;
+	font-size: 20px;
+}
