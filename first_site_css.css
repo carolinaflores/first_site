@@ -1,17 +1,15 @@
 header {
-	background:url("background_image.jpg");
-	background-size: cover;
-	opacity:0.8;
 	color:white;
 	font-family: 'Eccentric Std';
 	text-align:center;
-	letter-spacing:2px;
+	letter-spacing: 2px;
 	}
-table {
-	margin-left:auto;
-	margin-right:auto;
-	padding: 0px 0px 50px 0px;
-	font-size: 30px;
+.navbar {
+	background-color: gray;
+	font-family: 'Eccentric Std';
+	letter-spacing: 2px;
+	font-color:white;
+	text-align:center;
 }
 h1 {
 	padding: 40px 0px 0px 0px;
@@ -27,10 +25,12 @@ h3 {
 	font-size:30px;
 }
 body {
+	background:url("background_image.jpg");
 	font-family:'Bell Mt';
 	margin: 40px;
-	background: url("body_background.jpg");
 	background-size:cover;
+	opacity:0.8;
+	color: white;
 }
 
 p {
